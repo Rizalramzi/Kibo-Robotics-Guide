@@ -1,0 +1,6 @@
+{
+  "name": "Kibo Robotics Guide",
+  "description": "Panduan Penyiapan Proyek Kibo Robotics (WSL2, Git, VS Code, packing.sh, dan JAXA Simulator) ramah pemula.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
